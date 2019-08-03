@@ -1,6 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+import Home from '@/components/home/Home'
+import Brand from '@/components/brand/Brand'
+import Detail from '@/components/detail/Detail'
 
 Vue.use(Router)
 
@@ -8,8 +10,23 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld
+      name: 'Home',
+      component: Home
+    },
+    {
+      path: '/brand',
+      name: 'Brand',
+      component: Brand
+    },
+    {
+      path: '/detail/:op',
+      name: 'Detail',
+      component: Detail
     }
-  ]
+  ],
+
+  scrollBehavior(to,from,savedPosition){
+        //return 滚动的位置
+    return {x:0, y:0}
+  }
 })
