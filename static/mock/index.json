@@ -1,0 +1,232 @@
+{
+	"ret": true,
+	"data": {
+		"swiperList": [{
+				"id": "0001",
+				"imgUrl": "https://ssl2.sephorastatic.cn/wcsfrontend/campaign/mobile_img/2019/07/banner/m_beautyaward_20190718.jpg"
+			},
+			{
+				"id": "0002",
+				"imgUrl": "https://ssl3.sephorastatic.cn/wcsfrontend/campaign/mobile_img/2019/07/banner/m_carolinaherrera_20190718.jpg"
+			},
+			{
+				"id": "0003",
+				"imgUrl": "https://ssl3.sephorastatic.cn/wcsfrontend/campaign/mobile_img/2019/07/banner/m_cnvgifting_20190725.jpg"
+			}
+
+		],
+		"iconList": [{
+				"id": "0001",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-1.png",
+				"des": "畅销榜单"
+			},
+			{
+				"id": "0002",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-2.png",
+				"des": "本周特惠"
+			},
+			{
+				"id": "0003",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-3.png",
+				"des": "预约中心"
+			},
+			{
+				"id": "0004",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-4.png",
+				"des": "新品速递"
+			},
+			{
+				"id": "0005",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-5.png",
+				"des": "礼物套装"
+			},
+			{
+				"id": "0006",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-6.png",
+				"des": "全部品牌"
+			},
+			{
+				"id": "0007",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-7.png",
+				"des": "小众尖货"
+			},
+			{
+				"id": "0008",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-8.png",
+				"des": "美妆先锋"
+			},
+			{
+				"id": "0009",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-1.png",
+				"des": "会员中心"
+			},
+			{
+				"id": "0010",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/mobile_img/2019/07/banner/brand-8.png",
+				"des": "美力事业"
+			},
+			{
+				"id": "0011",
+				"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/campaign_img/2018/09/banner/brand-10.png",
+				"des": "帮助中心"
+			}
+		],
+
+		"topicList": [{
+				"top": {
+					"id": "0001",
+					"imgUrl": "https://ssl1.sephorastatic.cn/wcsfrontend/campaign/mobile_img/2019/07/banner/m_cnvmakeup_20190726.jpg",
+					"desTitle": "七夕勾魂眉眼技",
+					"desDes": "迷人电眼桃花妆，七夕眉目传情，让TA 眼前一亮！"
+				},
+				"bottom": [{
+						"offerPrice": 230,
+						"skuId": "12012014",
+						"isQuantity": 1,
+						"skuName": "贝玲妃眉笔大加小套装",
+						"sku": "VS1002652",
+						"skuProductID": "983934",
+						"skuBrand": "BENEFIT",
+						"brandName_cn": "贝玲妃",
+						"Icon": "New",
+						"skuPic": "https://ssl4.sephorastatic.cn/products/V/S/1/0/0/2/6/5/2/1_n_07403_450x450.jpg",
+						"skuPic2": "https://ssl4.sephorastatic.cn/products/V/S/1/0/0/2/6/5/2/1_n_07403_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/983934.html"
+					},
+					{
+						"offerPrice": 290,
+						"skuId": "477548",
+						"isQuantity": 1,
+						"skuName": "芭比波朗流云随心造型眉笔2号",
+						"sku": "327096",
+						"skuProductID": "956614",
+						"skuBrand": "BOBBIBROWN",
+						"brandName_cn": "芭比波朗",
+						"skuPic": "https://ssl3.sephorastatic.cn/products/3/2/7/0/9/6/1_n_06817_450x450.jpg",
+						"skuPic2": "https://ssl3.sephorastatic.cn/products/3/2/7/0/9/6/1_n_06817_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/956614.html"
+					},
+					{
+						"offerPrice": 380,
+						"skuId": "172508",
+						"isQuantity": 1,
+						"skuName": "娇兰眉粉",
+						"sku": "286702",
+						"skuProductID": "189038",
+						"skuBrand": "GUERLAIN",
+						"brandName_cn": "娇兰",
+						"skuPic": "https://ssl2.sephorastatic.cn/products/2/8/6/7/0/2/1_n_06178_450x450.jpg",
+						"skuPic2": "https://ssl2.sephorastatic.cn/products/2/8/6/7/0/2/1_n_06178_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/189038.html"
+					},
+					{
+						"offerPrice": 155,
+						"skuId": "963555",
+						"isQuantity": 1,
+						"skuName": "魅可时尚焦点小眼影27",
+						"sku": "101825",
+						"skuProductID": "967578",
+						"skuBrand": "M.A.C",
+						"brandName_cn": "魅可",
+						"skuPic": "https://ssl4.sephorastatic.cn/products/1/0/1/8/2/5/1_n_07195_450x450.jpg",
+						"skuPic2": "https://ssl4.sephorastatic.cn/products/1/0/1/8/2/5/1_n_07195_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/967578.html"
+					}
+				]
+			},
+
+			{
+				"top": {
+					"id": "0002",
+					"imgUrl": "https://ssl2.sephorastatic.cn/wcsfrontend/campaign/mobile_img/2019/07/banner/m_aftersun_20190718.jpg",
+					"desTitle": "精华护法 水润澎澎",
+					"desDes": "修护晒后肌肤，精华护法加乘喷雾补水，拯救热夏“桃花脸”。"
+				},
+				"bottom": [{
+						"offerPrice": "280",
+						"skuId": "12012557",
+						"isQuantity": 1,
+						"skuName": "欧树植萃防护滋润乳霜套装",
+						"sku": "VS1002807",
+						"skuProductID": "985270",
+						"skuBrand": "NUXE",
+						"brandName_cn": "欧树",
+						"Icon": "New",
+						"skuPic": "https://ssl3.sephorastatic.cn/products/V/S/1/0/0/2/8/0/7/1_n_07468_450x450.jpg",
+						"skuPic2": "https://ssl3.sephorastatic.cn/products/V/S/1/0/0/2/8/0/7/1_n_07468_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/985270.html",
+						"type": "type3"
+					},
+					{
+						"offerPrice": "122",
+						"skuId": "12012558",
+						"isQuantity": 1,
+						"skuName": "欧树玫瑰舒缓爽肤水套装",
+						"sku": "VS1002808",
+						"skuProductID": "985271",
+						"skuBrand": "NUXE",
+						"brandName_cn": "欧树",
+						"Icon": "New",
+						"skuPic": "https://ssl1.sephorastatic.cn/products/V/S/1/0/0/2/8/0/8/1_n_07468_450x450.jpg",
+						"skuPic2": "https://ssl1.sephorastatic.cn/products/V/S/1/0/0/2/8/0/8/1_n_07468_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/985271.html",
+						"type": "type3"
+					},
+					{
+						"offerPrice": "372",
+						"skuId": "12005793",
+						"isQuantity": 1,
+						"skuName": "欧树植物奶保湿套装",
+						"sku": "454583",
+						"skuProductID": "982322",
+						"skuBrand": "NUXE",
+						"brandName_cn": "欧树",
+						"Icon": "Exclusive",
+						"skuPic": "https://ssl4.sephorastatic.cn/products/4/5/4/5/8/3/1_n_07080_450x450.jpg",
+						"skuPic2": "https://ssl4.sephorastatic.cn/products/4/5/4/5/8/3/1_n_07080_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/982322.html",
+						"type": "type3"
+					},
+					{
+						"offerPrice": "1050",
+						"skuId": "12012216",
+						"isQuantity": 1,
+						"skuName": "兰蔻补水保湿呵宠礼盒",
+						"sku": "488532",
+						"skuProductID": "985374",
+						"skuBrand": "LANCOME",
+						"brandName_cn": "兰蔻",
+						"Icon": "New",
+						"skuPic": "https://ssl1.sephorastatic.cn/products/4/8/8/5/3/2/1_n_07435_450x450.jpg",
+						"skuPic2": "https://ssl1.sephorastatic.cn/products/4/8/8/5/3/2/1_n_07435_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/985374.html",
+						"type": "type4"
+					},
+					{
+						"offerPrice": "870",
+						"skuId": "12012402",
+						"isQuantity": 1,
+						"skuName": "彼得罗夫青瓜舒润双膜礼盒",
+						"sku": "489565",
+						"skuProductID": "985698",
+						"skuBrand": "PETERTHOMASROTH",
+						"brandName_cn": "彼得罗夫",
+						"Icon": "New",
+						"skuPic": "https://ssl4.sephorastatic.cn/products/4/8/9/5/6/5/1_n_07493_450x450.jpg",
+						"skuPic2": "https://ssl4.sephorastatic.cn/products/4/8/9/5/6/5/1_n_07493_210x210.jpg",
+						"skuUrl": ".sephora.cn/product/985698.html",
+						"type": "type4"
+					}
+				]
+
+			}
+
+		]
+
+
+
+
+	}
+
+
+}

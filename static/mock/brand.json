@@ -1,0 +1,350 @@
+{
+	"ret": true,
+	"data": {
+		"hotbrands": [{
+			"id": 1,
+			"name_english": "lancome",
+			"name_chinese": "兰蔻"
+		},{
+			"id": 2,
+			"name_english": "refa",
+			"name_chinese": "黎珐"
+		},{
+			"id": 3,
+			"name_english": "bobbibrown",
+			"name_chinese": "芭比波朗"
+		},{
+			"id": 4,
+			"name_english": "esteelauder",
+			"name_chinese": "雅诗兰黛"
+		},{
+			"id": 5,
+			"name_english": "skii",
+			"name_chinese": "SKII"
+		}],
+		"brands": {
+			"A": [{
+				"id": 1,
+				"name_english": "acquadiparma",
+				"name_chinese": "帕尔玛之水",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/acquadiparma/acquadiparma_144X60.png"
+			},{
+				"id": 2,
+				"name_english": "algenist",
+				"name_chinese": "奥杰尼",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/algenist/algenist_144X60.png"
+			},{
+				"id": 3,
+				"name_english": "amazingcosmetics",
+				"name_chinese": "奥玛珍",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/amazingcosmetics/amazingcosmetics_144X60.png"
+			},{
+				"id": 4,
+				"name_english": "nnasui",
+				"name_chinese": "安娜苏",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/annasui/annasui_144X60.png"
+			},{
+				"id": 5,
+				"name_english": "ateliercologne",
+				"name_chinese": "欧珑",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/ateliercologne/ateliercologne_144X60.png"
+			}],
+			"B": [{
+				"id": 6,
+				"name_english": "balenciaga",
+				"name_chinese": "巴黎世家",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/balenciaga/balenciaga_144X60.png"
+			},{
+				"id": 7,
+				"name_english": "beautyblender",
+				"name_chinese": "美妆蛋",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/beautyblender/beautyblender_144X60.png"
+			},{
+				"id": 8,
+				"name_english": "belloite",
+				"name_chinese": "贝洛之舞",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/belloite/belloite_144X60.png"
+			},{
+				"id": 9,
+				"name_english": "benefit",
+				"name_chinese": "贝玲妃",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/benefit/benefit_144X60.png"
+			},{
+				"id": 10,
+				"name_english": "biotherm",
+				"name_chinese": "碧欧泉",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/biotherm/biotherm_144X60.png"
+			},{
+				"id": 11,
+				"name_english": "biotherm",
+				"name_chinese": "芭比波朗",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/bobbibrown/bobbibrown_144X60.png"
+			},{
+				"id": 12,
+				"name_english": "burberry",
+				"name_chinese": "博柏利",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/burberry/burberry_144X60.png"
+			},{
+				"id": 13,
+				"name_english": "bvlgari",
+				"name_chinese": "宝格丽",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/bvlgari/bvlgari_144X60.png"
+			}],
+			"C": [{
+				"id": 14,
+				"name_english": "clarins",
+				"name_chinese": "娇韵诗",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/clarins/clarins_144X60.png"
+			},{
+				"id": 15,
+				"name_english": "caudalie",
+				"name_chinese": "欧缇丽",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/caudalie/caudalie_144X60.png"
+			},{
+				"id": 16,
+				"name_english": "clinique",
+				"name_chinese": "倩碧",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/clinique/clinique_144X60.png"
+			},{
+				"id": 17,
+				"name_english": "chloe",
+				"name_chinese": "蔻依",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/chloe/chloe_144X60.png"
+			},{
+				"id": 18,
+				"name_english": "clarisonic",
+				"name_chinese": "科莱丽",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/clarisonic/clarisonic_144X60.png"
+			},{
+				"id": 19,
+				"name_english": "clio",
+				"name_chinese": "珂莱欧",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/clio/clio_144X60.png"
+			}],
+			"D": [{
+				"id": 20,
+				"name_english": "dior",
+				"name_chinese": "迪奥",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/dior/dior_144X60.png"
+			},{
+				"id": 21,
+				"name_english": "drjart",
+				"name_chinese": "蒂佳婷",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/drjart/drjart_144X60.png"
+			},{
+				"id": 22,
+				"name_english": "dtrt",
+				"name_chinese": "杜比丽夫",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/dtrt/dtrt_144X60.png"
+			}],
+			"E": [{
+				"id": 23,
+				"name_english": "esteelauder",
+				"name_chinese": "雅诗兰黛",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/esteelauder/esteelauder_144X60.png"
+			},{
+				"id": 24,
+				"name_english": "esthederm",
+				"name_chinese": "雅诗敦",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/esthederm/esthederm_144X60.png"
+			},{
+				"id": 25,
+				"name_english": "eisenberg",
+				"name_chinese": "伊诗贝格",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/eisenberg/eisenberg_144X60.png"
+			}],
+			"F": [{
+				"id": 26,
+				"name_english": "fresh",
+				"name_chinese": "馥蕾诗",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/fresh/fresh_144X60.png"
+			},{
+				"id": 27,
+				"name_english": "forbelovedone",
+				"name_chinese": "宠爱之名",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/forbelovedone/forbelovedone_144X60.png"
+			},{
+				"id": 28,
+				"name_english": "foreo",
+				"name_chinese": "斐珞尔",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/foreo/foreo_144X60.png"
+			}],
+			"G": [{
+				"id": 29,
+				"name_english": "guerlain",
+				"name_chinese": "娇兰",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/guerlain/guerlain_144X60.png"
+			},{
+				"id": 30,
+				"name_english": "givenchy",
+				"name_chinese": "纪梵希",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/givenchy/givenchy_144X60.png"
+			},{
+				"id": 31,
+				"name_english": "giorgioarmani",
+				"name_chinese": "阿玛尼",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/giorgioarmani/giorgioarmani_144X60.png"
+			},{
+				"id": 32,
+				"name_english": "glamglow",
+				"name_chinese": "格莱魅",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/glamglow/glamglow_144X60.png"
+			},{
+				"id": 33,
+				"name_english": "gucci",
+				"name_chinese": "古驰",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/gucci/gucci_144X60.png"
+			}],
+			"H": [{
+				"id": 34,
+				"name_english": "herborist",
+				"name_chinese": "佰草集",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/herborist/herborist_144X60.png"
+			},{
+				"id": 35,
+				"name_english": "hakubi",
+				"name_chinese": "皓妍",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/hakubi/hakubi_144X60.png"
+			}],
+			"I": [{
+				"id": 36,
+				"name_english": "isseymiyake",
+				"name_chinese": "三宅一生",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/isseymiyake/isseymiyake_144X60.png"
+			}],
+			"J": [{
+				"id": 37,
+				"name_english": "jflazartigue",
+				"name_chinese": "娜莎迪",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/jflazartigue/jflazartigue_144X60.png"
+			},{
+				"id": 38,
+				"name_english": "junejacobs",
+				"name_chinese": "尊积帕",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/junejacobs/junejacobs_144X60.png"
+			}],
+			"K": [{
+				"id": 39,
+				"name_english": "kenzo",
+				"name_chinese": "凯卓",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/kenzo/kenzo_144X60.png"
+			},{
+				"id": 40,
+				"name_english": "kose",
+				"name_chinese": "高丝",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/kose/kose_144X60.png"
+			}],
+			"L": [{
+				"id": 41,
+				"name_english": "lancome",
+				"name_chinese": "兰蔻",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/lancome/lancome_144X60.png"
+			},{
+				"id": 42,
+				"name_english": "loewe",
+				"name_chinese": "罗意威",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/loewe/loewe_144X60.png"
+			},{
+				"id": 43,
+				"name_english": "lancaster",
+				"name_chinese": "兰嘉丝汀",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/lancaster/lancaster_144X60.png"
+			},{
+				"id": 44,
+				"name_english": "labseries",
+				"name_chinese": "朗仕",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/labseries/labseries_144X60.png"
+			},{
+				"id": 45,
+				"name_english": "laneige",
+				"name_chinese": "兰芝",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/laneige/laneige_144X60.png"
+			}],
+			"M": [{
+				"id": 46,
+				"name_english": "mac",
+				"name_chinese": "魅可",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/mac/mac_144X60.png"
+			},{
+				"id": 47,
+				"name_english": "makeupforever",
+				"name_chinese": "玫珂菲",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/makeupforever/makeupforever_144X60.png"
+			},{
+				"id": 48,
+				"name_english": "marcjacobs",
+				"name_chinese": "莫杰",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/marcjacobs/marcjacobs_144X60.png"
+			},{
+				"id": 49,
+				"name_english": "mariedalgarcolorstudio",
+				"name_chinese": "玛丽黛佳色彩工作室",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/mariedalgarcolorstudio/mariedalgarcolorstudio_144X60.png"
+			},{
+				"id": 50,
+				"name_english": "menardsp",
+				"name_chinese": "美伊娜多",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/menardsp/menardsp_144X60.png"
+			},{
+				"id": 51,
+				"name_english": "miumiu",
+				"name_chinese": "缪缪",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/miumiu/miumiu_144X60.png"
+			}],
+			"N": [{
+				"id": 52,
+				"name_english": "nudestix",
+				"name_chinese": "羽德诗",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/nudestix/nudestix_144X60.png"
+			},{
+				"id": 53,
+				"name_english": "nuxe",
+				"name_chinese": "欧树",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/nuxe/nuxe_144X60.png"
+			}],
+			"O": [{
+				"id": 54,
+				"name_english": "oleva",
+				"name_chinese": "奥洛菲",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/oleva/oleva_144X60.png"
+			},{
+				"id": 55,
+				"name_english": "OPI",
+				"name_chinese": "OPI",
+				"img": "https://ssl2.sephorastatic.cn/wcsfrontend/brand/opi/opi_144X60.png"
+			}],
+			"P": [{
+				"id": 56,
+				"name_english": "peterthomasroth",
+				"name_chinese": "彼得罗夫",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/peterthomasroth/peterthomasroth_144X60.png"
+			},{
+				"id": 57,
+				"name_english": "percyandreed",
+				"name_chinese": "佩妍丽",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/percyandreed/percyandreed_144X60.png"
+			},{
+				"id": 58,
+				"name_english": "philips",
+				"name_chinese": "飞利浦",
+				"img": "https://ssl4.sephorastatic.cn/wcsfrontend/brand/philips/philips_144X60.png"
+			},{
+				"id": 59,
+				"name_english": "prada",
+				"name_chinese": "普拉达",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/prada/prada_144X60.png"
+			}],
+			"R": [{
+				"id": 60,
+				"name_english": "refa",
+				"name_chinese": "黎珐",
+				"img": "https://ssl1.sephorastatic.cn/wcsfrontend/brand/refa/refa_144X60.png"
+			},{
+				"id": 61,
+				"name_english": "renefurterer",
+				"name_chinese": "馥绿德雅",
+				"img": "https://ssl3.sephorastatic.cn/wcsfrontend/brand/renefurterer/renefurterer_144X60.png"
+			}]
+		}
+	}
+}
