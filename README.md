@@ -39,4 +39,8 @@ npm install better-scroll --save
 
 npm install vue-awesome-swiper@2.6.7  --save
 
+npm install axios --save-dev
+
+npm install vuex --save
+
 ```
